@@ -1,4 +1,4 @@
-# 🎮 Morpion Console (Tic-Tac-Toe)
+# 🎮 Morpion Console
 
 > Projet réalisé dans le cadre du **BTS SIO (1ère année)**.
 > Un jeu de Morpion classique jouable directement dans le terminal, codé en **C#**.
@@ -38,3 +38,6 @@ Ce projet met en œuvre plusieurs concepts clés du développement C# / .NET :
 2.  **Utiliser les flèches du clavier** `⬅️` `➡️` `⬆️` `⬇️` pour déplacer le carré vert.
 3.  Appuyer sur **`ESPACE`** pour valider et poser son pion.
 4.  Le jeu s'arrête quand un joueur aligne 3 symboles ou que la grille est pleine.
+
+<img width="315" height="359" alt="image" src="https://github.com/user-attachments/assets/91cf014e-388e-4077-afdd-19cde202e2e1" />
+

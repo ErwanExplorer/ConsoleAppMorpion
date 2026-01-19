@@ -20,12 +20,11 @@ Il ne s'agit pas juste d'afficher du texte : le jeu gère un curseur mobile, une
     * Détection des matchs nuls (Grille pleine).
     * Affichage dynamique du gagnant.
 
-## 🛠️ Compétences Techniques (Tech Stack)
+## 🛠️ Compétences Techniques 
 Ce projet met en œuvre plusieurs concepts clés du développement C# / .NET :
 
 * **Langage :** C# (.NET Core / Framework).
 * **POO (Programmation Orientée Objet) :**
-    * Séparation logique : `Program.cs` (Entrée) vs `Game.cs` (Moteur).
     * Utilisation de **Propriétés**, **Constructeurs** et **Méthodes**.
 * **Algorithmique :**
     * Mapping 2D vers 1D : Conversion des coordonnées (X,Y) vers un index de tableau `[0-8]`.

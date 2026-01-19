@@ -1,0 +1,14 @@
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\bin\Debug\net9.0\ConsoleAppMorpion.exe
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\bin\Debug\net9.0\ConsoleAppMorpion.deps.json
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\bin\Debug\net9.0\ConsoleAppMorpion.runtimeconfig.json
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\bin\Debug\net9.0\ConsoleAppMorpion.dll
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\bin\Debug\net9.0\ConsoleAppMorpion.pdb
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\obj\Debug\net9.0\ConsoleAppMorpion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\obj\Debug\net9.0\ConsoleAppMorpion.AssemblyInfoInputs.cache
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\obj\Debug\net9.0\ConsoleAppMorpion.AssemblyInfo.cs
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\obj\Debug\net9.0\ConsoleAppMorpion.csproj.CoreCompileInputs.cache
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\obj\Debug\net9.0\ConsoleAppMorpion.dll
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\obj\Debug\net9.0\refint\ConsoleAppMorpion.dll
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\obj\Debug\net9.0\ConsoleAppMorpion.pdb
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\obj\Debug\net9.0\ConsoleAppMorpion.genruntimeconfig.cache
+C:\Users\proer\RiderProjects\ConsoleAppMorpion\ConsoleAppMorpion\obj\Debug\net9.0\ref\ConsoleAppMorpion.dll
